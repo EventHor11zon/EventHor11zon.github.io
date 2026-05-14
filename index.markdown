@@ -1,7 +1,11 @@
 ---
 layout: home
 title: Home
+hide_title: true
 ---
+
+![Cool ass zuko banner](/assets/images/zuko_banner.jpg)
+<sub>art by [@schwesterchiz](https://www.instagram.com/schwesterchiz/)</sub>
 
 ## About Me
 - I'm a first year electrical engineering student from Türkiye.
